@@ -1,1 +1,5 @@
 echo "this is some content to mess with"
+
+totally different content to merge later
+
+echo"content to append"
